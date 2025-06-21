@@ -43,10 +43,10 @@ const HeroSection = () => {
 
           {/* Main heading with enhanced styling */}
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-8 leading-tight">
-            <span className="text-white drop-shadow-2xl">Transform Your</span>
+            <span className="text-white drop-shadow-2xl">Business Consultant</span>
             <br />
             <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent drop-shadow-lg">
-              Digital Future
+              & IT Solution
             </span>
           </h1>
 
