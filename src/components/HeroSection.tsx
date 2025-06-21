@@ -75,8 +75,8 @@ const HeroSection = () => {
             <div className="relative lg:order-last">
               <div className="relative">
                 <img
-                  src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                  alt="Professional woman working on laptop - Business consulting and IT solutions"
+                  src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                  alt="MacBook with code on screen - Business consulting and IT solutions development"
                   className="w-full h-auto rounded-2xl shadow-2xl"
                 />
                 {/* Decorative elements */}
