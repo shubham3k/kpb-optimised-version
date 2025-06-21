@@ -16,14 +16,14 @@ const HeroSection = () => {
           {/* Badge */}
           <div className="inline-flex items-center space-x-2 bg-white/80 backdrop-blur-sm border border-gray-200/50 rounded-full px-4 py-2 mb-8 shadow-lg">
             <Star className="h-4 w-4 text-yellow-500 fill-current" />
-            <span className="text-sm font-medium text-gray-700">Business Consultant</span>
+            <span className="text-sm font-medium text-gray-700">KPB Support Solution</span>
           </div>
 
           {/* Main heading */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-            & IT Services
+            Business Consultant
             <span className="block bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              Optimized & Modern
+              & IT Services
             </span>
           </h1>
 
