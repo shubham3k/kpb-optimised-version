@@ -3,6 +3,7 @@ import React from 'react';
 import NavigationBar from '../components/NavigationBar';
 import HeroSection from '../components/HeroSection';
 import ContentSections from '../components/ContentSections';
+import Footer from '../components/Footer';
 
 const Index = () => {
   return (
@@ -10,6 +11,7 @@ const Index = () => {
       <NavigationBar />
       <HeroSection />
       <ContentSections />
+      <Footer />
     </div>
   );
 };
