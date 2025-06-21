@@ -90,24 +90,7 @@ const HeroSection = () => {
             </button>
           </div>
 
-          {/* Features grid */}
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-4xl mx-auto">
-            {[
-              { 
-                title: 'Innovation First', 
-                desc: 'Cutting-edge solutions',
-                icon: '🚀'
-              },
-              { 
-                title: 'Expert Team', 
-                desc: 'Industry professionals',
-                icon: '👥'
-              },
-              { 
-                title: '24/7 Support', 
-                desc: 'Always available',
-                icon: '🛡️'
-              }
+         
             ].map((feature, index) => (
               <div 
                 key={feature.title}
